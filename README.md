@@ -1,5 +1,7 @@
 Agenday
-Descrição
+
+Descrição:
+
 O AgenDay é um sistema médico para o gerenciamento de consultas, médicos, pacientes e prescrições. Ele possui um frontend desenvolvido com React e Next.js, e um backend em Node.js com Express e MongoDB. O sistema inclui funcionalidades para agendamento de consultas, gerenciamento de prescrições e armazenamento de arquivos PDF.
 
 Funcionalidades
